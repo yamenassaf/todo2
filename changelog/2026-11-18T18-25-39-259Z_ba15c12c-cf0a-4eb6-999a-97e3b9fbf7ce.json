@@ -1,0 +1,37 @@
+{
+  "deviceId": "ba15c12c-cf0a-4eb6-999a-97e3b9fbf7ce",
+  "timestamp": "2026-11-18T18:25:39.259Z",
+  "changes": [
+    {
+      "collection": "todos",
+      "docId": "438b5bdc-b1aa-42bb-bbd6-56b97671eeaf",
+      "op": "create",
+      "fields": {
+        "id": {
+          "value": "438b5bdc-b1aa-42bb-bbd6-56b97671eeaf",
+          "updatedAt": "2026-11-18T18:25:35.261Z"
+        },
+        "title": {
+          "value": "Task 4",
+          "updatedAt": "2026-11-18T18:25:35.261Z"
+        },
+        "done": {
+          "value": false,
+          "updatedAt": "2026-11-18T18:25:35.261Z"
+        },
+        "createdAt": {
+          "value": "2026-11-18T18:25:35.260Z",
+          "updatedAt": "2026-11-18T18:25:35.261Z"
+        },
+        "updatedAt": {
+          "value": "2026-11-18T18:25:35.260Z",
+          "updatedAt": "2026-11-18T18:25:35.261Z"
+        },
+        "completedAt": {
+          "value": null,
+          "updatedAt": "2026-11-18T18:25:35.261Z"
+        }
+      }
+    }
+  ]
+}
