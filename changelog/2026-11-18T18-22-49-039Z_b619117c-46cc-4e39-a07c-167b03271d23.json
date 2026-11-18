@@ -1,0 +1,24 @@
+{
+  "deviceId": "b619117c-46cc-4e39-a07c-167b03271d23",
+  "timestamp": "2026-11-18T18:22:49.039Z",
+  "changes": [
+    {
+      "collection": "todos",
+      "docId": "t-mwm77ij2k19ofx",
+      "op": "delete",
+      "deletedAt": "2026-11-18T18:22:41.638Z"
+    },
+    {
+      "collection": "todos",
+      "docId": "t-mwm2skybuwef5a",
+      "op": "delete",
+      "deletedAt": "2026-11-18T18:22:43.445Z"
+    },
+    {
+      "collection": "todos",
+      "docId": "t-mwm79r20s9hwxb",
+      "op": "delete",
+      "deletedAt": "2026-11-18T18:22:44.211Z"
+    }
+  ]
+}
